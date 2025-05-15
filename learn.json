@@ -1,0 +1,22 @@
+{
+  "slug": "ftp-traffic-and-cryptographic-failures-lab",
+  "title": {
+    "es": "BLINDMA1DEN - Interceptando secretos ocultos",
+    "en": "BLINDMA1DEN - Intercepting Hidden Secrets"
+  },
+  "preview": "https://github.com/breatheco-de/capture-flag-cryptographic-failures/blob/main/assets/preview.png?raw=true",
+  "solution": {
+    "us":"https://github.com/breatheco-de/capture-flag-cryptographic-failures/blob/solution/SOLUTION.md",
+    "es": "https://github.com/breatheco-de/capture-flag-cryptographic-failures/blob/solution/SOLUTION.es.md"
+    },
+  "technologies": ["cybersecurity", "linux", "ftp", "burpsuite","A02:2021 - Cryptographic Failures",
+    "A03:2021 - Injection",
+    "A05:2021 - Security Misconfiguration","red-team"],
+  "difficulty": "intermediate",
+  "duration": 2,
+  "projectType": "capture-the-flag",
+  "description": {
+    "es": "Aprende a interceptar tráfico HTTP sin cifrar, identificar fugas de información y acceder a servicios FTP utilizando hashes y técnicas de decodificación.",
+    "en": "Learn to intercept unencrypted HTTP traffic, identify information leaks, and access FTP services using hashes and decoding techniques."
+  }
+}
