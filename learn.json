@@ -18,5 +18,13 @@
   "description": {
     "es": "Aprende a interceptar tráfico HTTP sin cifrar, identificar fugas de información y acceder a servicios FTP utilizando hashes y técnicas de decodificación.",
     "en": "Learn to intercept unencrypted HTTP traffic, identify information leaks, and access FTP services using hashes and decoding techniques."
-  }
+  },
+  "delivery": {
+		"instructions": {
+			"us": "Paste the flag you found with format FLAG{hash}",
+			"es": "Agrega la bandera que encontraste con el formato FLAG{hash}"
+		},
+		"formats": ["flags"],
+		"quantity": 1
+	}
 }
